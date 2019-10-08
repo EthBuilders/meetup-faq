@@ -74,7 +74,7 @@ the basic ideas pioneered from Bitcoin.
 
 For Ethereum, the [Homestead Guide](https://ethereum-homestead.readthedocs.io/en/latest/index.html) is the first and still best comprehensive documentation.
 
-It's how I (@chanho) first learned to develop for Ethereum in 2015, working through the Democracy example for online voting.
+It's how I (@cryptogoth) first learned to develop for Ethereum in 2015, working through the Democracy example for online voting.
 
 There is also [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), written by the author of Mastering Bitcoin (Andreas Antonopoulos) and co-creator of Ethereum (Gavin Wood). Like Mastering Bitcoin, the book is free and open source.
 
