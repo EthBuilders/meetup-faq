@@ -44,7 +44,7 @@ densely packed full of powerful ideas that we are still
 exploring today.
 
 
-## IRL: In Real Life
+### IRL: In Real Life
 If you like learning by talking to real people, coming to a
 meetup or a hackathon is the best way to learn. Depending on
 your city, here are some great meetups we know about.
