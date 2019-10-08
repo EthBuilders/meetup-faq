@@ -97,13 +97,40 @@ or [Slack](http://bit.ly/nyc-blockchain-devs-slack-join)
 Come to our [meetup](https://www.meetup.com/nyc-blockchain-devs/) enough times or submit a [pull request](https://github.com/NYC-Blockchain-Devs/meetup-faq/pulls).
 
 ### How can my company be a sponsor?
+Join our [slack](http://bit.ly/nyc-blockchain-devs-slack-join and reach out to @anthony albertorio.
 
 ## Trading and Finances
 Q: I want a lambo. Tell me how to get one.
 
 A: Me too.
 
-
 ### Where does the dollar value of Bitcoin / Ethereum / (insert your favorite chain here) come from?
+To keep it simple, the value of the token is derived from the value of the network. 
+
+It is same way the value of the iPhone is derived from how many things you can do with it securely (via apps).
+
+The value of the token is also influenced by what people percieve it to be and the willingness and ability to buy the token. That is an entirely different conversation on information asymmetery, the efficiency of markets to process information and the madness of crowds.
+
+### What does the blockchain actually solve?
+Blockchains solve an issue in economics called the ["Principal Agent Problem"](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem).
+
+Blockchains are useful in increasing the ability for people to cooperate with one another, a term called [social scalability](https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html).
+
+### What problem do smart contract platforms solve?
+Smart contract platforms solve issues related to [counterparty risk](https://www.investopedia.com/terms/c/counterpartyrisk.asp) and goverance.
+
+More on this later.
+
+### Do I need a blockchain to create a decentralized application?
+If you care about decentralized user data, check out [Blockstack](https://blockstack.org).
+
+If you only care about peer to peer (p2p) communication, check out [Libp2p](https://libp2p.io/).
+
+Libp2p is to p2p apps as to what expressJS is to web apps. Libp2p is series of modules that allow you to scaffold together a peer to peer application without having to rebuilt the entire stack yourself.
+
+We will add a simple flow chart to help you understand what tools might be useful depending on your needs.
 
 ### What is an ICO?
+ICO stands for an Initial Coin Offering. It is a form of raising capital via the internet.
+
+More on this later.
