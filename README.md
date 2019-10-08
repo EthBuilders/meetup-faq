@@ -105,14 +105,21 @@ Simply Explained has some great videos:
 9. [Zero Knowledge Proof - ZKP](https://www.youtube.com/watch?v=OcmvMs4AMbM)
 
 Siraj Raval has some great intro videos. Join his great channel!
-1. [Blockchains]()
-2. [How does a blockchain work?](https://www.youtube.com/watch?v=LZEHOlZY2To)
+
+1. [How does a blockchain work?](https://www.youtube.com/watch?v=LZEHOlZY2To)
+
 2. [Ethereum](https://www.youtube.com/watch?v=-_Qs0XdPpw8)
+
 3. [Smart contracts](https://www.youtube.com/watch?v=dP0-8D2fSb8)
+
 4. [Web 3.0 explained](https://www.youtube.com/watch?v=aPVmd7SyKfQ)
+
 5. [What is an ICO- Initial Coin Offering?](https://www.youtube.com/watch?v=iyuZ_bCQeIE)
-6. [How to build a simple blockchain in 5 minutes]()
+
+6. [Build a simple blockchain in 5 minutes with Python](https://www.youtube.com/watch?v=MViBvQXQ3mM)
+
 7. [Learn blockchain programming in two months curriculum](https://www.youtube.com/watch?v=wVVGv2bmxow)
+
 8. [Cryptography math](https://www.youtube.com/watch?v=tK3wuQN9MHE)
 
 **Want to get some intution and play with a blockchain?** 
@@ -183,5 +190,7 @@ We will add a simple flow chart to help you understand what tools might be usefu
 
 ### What is an ICO?
 ICO stands for an Initial Coin Offering. It is a form of raising capital via the internet.
+
+See this video for now: [What is an Initial Coin Offering?](https://www.youtube.com/watch?v=iyuZ_bCQeIE)
 
 More on this later.
