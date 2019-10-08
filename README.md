@@ -31,6 +31,8 @@ Nope.
 
 ### How can I learn more about blockchain?
 
+Check out this video on Blockchain explained in 5 levels of difficulty from Wired
+
 The [Explain Like I'm Five series has a Bitcoin edition](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/),
 and it's a good read for non-technical audiences. If you'd
 like the high-level ideas without necessarily becoming a
@@ -63,11 +65,7 @@ https://www.meetup.com/Detroit-Blockchainers/
 
 Coming to these meetups and asking / answering questions is a good first step.
 
-Depending on which blockchain you are interested in developing for, there are
-different resources. If you like working through a book, the best online books
-are below, although they are each slightly dated. They are still correct and
-will teach you the fundamentals, but they won't contain the latest developments
-for each chain.
+Depending on which blockchain you are interested in developing for, there are different resources. If you like working through a book, the best online books are below, although they are each slightly dated. They are still correct and will teach you the fundamentals, but they won't contain the latest developments for each chain.
 
 For Bitcoin, and blockchains in general, the [Master Bitcoin](https://bitcoinbook.info/) book is a great place to start. If you want to understand the nuts-and-bolts of transactions, what actual bytes are being sent over the network for the Bitcoin protocol, and step-by-step examples you can try on the command-line, this is the book for you.
 
@@ -85,6 +83,57 @@ we'd love to have your help on the Democracy.js framework
 
 https://github.com/invisible-college/democracy
 
+### Hands on learning
+**Want to understand the basics**
+Simply Explained has some great videos:
+1. [How does a blockchain work - Simply Explained](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+
+2. [Blockchains: how can they be used?](https://www.youtube.com/watch?v=aQWflNQuP_o)
+
+3. [Smart contracts - Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+
+4. [Mining Difficulty](https://www.youtube.com/watch?v=o1gOyhU6XEw)
+
+5. [Proof-of-Stake (vs proof-of-work)](https://www.youtube.com/watch?v=M3EFi_POhps)
+
+6. [Asymmetric encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)
+
+7. [ERC20 tokens - Simply Explained](https://www.youtube.com/watch?v=cqZhNzZoMh8)
+
+8. [What is a Bitcoin hard fork? Simply Explained!](https://www.youtube.com/watch?v=XCo6yyutYAM)
+
+9. [Zero Knowledge Proof - ZKP](https://www.youtube.com/watch?v=OcmvMs4AMbM)
+
+Siraj Raval has some great intro videos. Join his great channel!
+1. [Blockchains]()
+2. [How does a blockchain work?](https://www.youtube.com/watch?v=LZEHOlZY2To)
+2. [Ethereum](https://www.youtube.com/watch?v=-_Qs0XdPpw8)
+3. [Smart contracts](https://www.youtube.com/watch?v=dP0-8D2fSb8)
+4. [Web 3.0 explained](https://www.youtube.com/watch?v=aPVmd7SyKfQ)
+5. [What is an ICO- Initial Coin Offering?](https://www.youtube.com/watch?v=iyuZ_bCQeIE)
+6. [How to build a simple blockchain in 5 minutes]()
+7. [Learn blockchain programming in two months curriculum](https://www.youtube.com/watch?v=wVVGv2bmxow)
+8. [Cryptography math](https://www.youtube.com/watch?v=tK3wuQN9MHE)
+
+**Want to get some intution and play with a blockchain?** 
+
+Try [Blockchain Demo](https://anders.com/blockchain/).
+
+Anders Brownworth built a great tool that lets you play the pieces that build up a blockchain.
+
+**Want a crash course on how Ethereum's Solidity smart contract langauge works?**
+Try [cryptozombies](https://cryptozombies.io/). 
+
+Its a codecademy-like interface to learn the basics.
+
+**Prefer videos to learn how to build Dapps?**
+
+[Learning Solidity](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg) has great lessons related to the language.
+
+[Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) has great lessons on the tools to build things.
+
+[Eat The Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA) is similar to Dapp University.
+
 ## Admin
 
 ### How can I give a presentation or demo?
@@ -97,7 +146,9 @@ or [Slack](http://bit.ly/nyc-blockchain-devs-slack-join)
 Come to our [meetup](https://www.meetup.com/nyc-blockchain-devs/) enough times or submit a [pull request](https://github.com/NYC-Blockchain-Devs/meetup-faq/pulls).
 
 ### How can my company be a sponsor?
-Join our [slack](http://bit.ly/nyc-blockchain-devs-slack-join and reach out to @anthony albertorio.
+Join our [slack](http://bit.ly/nyc-blockchain-devs-slack-join) and reach out to @anthony albertorio.
+
+Or message the admins on [meetup](https://meetup.com/nyc-blockchain-devs/).
 
 ## Trading and Finances
 Q: I want a lambo. Tell me how to get one.
