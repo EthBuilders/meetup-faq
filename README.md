@@ -6,8 +6,16 @@
 This is a regular gathering for blockchain developers of all levels to learn, present, and work either solo or in collaboration with one another. Our community is a welcoming space where any Ethereum and de-centralized ledger related question is fair game, be it beginner, intermediate, or advanced.
 
 ### Where do meetups happen?
-WeWork Dumbo Heights  
+WeWork Dumbo Heights 
+Inside Flatiron School 
+3rd Floor
+Turing Room
 [81 Prospect St, Brooklyn, NY 11201](https://goo.gl/maps/9BPpedPMVW9sgfE17)
+
+Please bring ID to enter premises.
+Since security has ramped up lately, **please join our [slack group](http://bit.ly/nyc-blockchain-devs-slack-join) BEFORE coming to meetup**. If there isn't a person downstairs to pick you up or you arrive late, you can message **@anthony albertorio** or on **#general**. 
+
+**If not, you might have trouble getting into the location**.
 
 ### How do I keep updated on meetup events and happenings?
 Please [join](http://bit.ly/nyc-blockchain-devs-slack-join) our Slack workspace!   
