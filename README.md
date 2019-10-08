@@ -141,6 +141,15 @@ Its a codecademy-like interface to learn the basics.
 
 [Eat The Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA) is similar to Dapp University.
 
+### Do you have any projects which I can contribute to?
+Yes! check out our [repo](https://github.com/NYC-Blockchain-Devs/sample-smart-contracts). 
+
+We will be posting smart contracts and projects weekly.
+
+We wil also be creating a bigger ongoing project as a community. Check out our [slack](http://bit.ly/nyc-blockchain-devs-slack-join) group under #project-zero.
+
+More on that later.
+
 ## Admin
 
 ### How can I give a presentation or demo?
