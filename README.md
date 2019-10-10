@@ -18,14 +18,26 @@ Since security has ramped up lately, **please join our [slack group](http://bit.
 
 **If not, you might have trouble getting into the location**.
 
-### How do I keep updated on meetup events and happenings?
-Please [join](http://bit.ly/nyc-blockchain-devs-slack-join) our Slack workspace!   
-
 ### What should I bring?
 You'll need a government-issued ID for building access.  A laptop is handy if you want to share your work or get help.
 
 ### Are there any costs/expenses?
 Nope.  
+
+### How do I keep updated on meetup events and happenings?
+Please [join](http://bit.ly/nyc-blockchain-devs-slack-join) our Slack workspace!   
+
+### SECURITY 
+**Where there is money, there are scammers.**
+
+Practice common sense safety. Better to be **stingy** and a **jerk** than be caught in a scam.
+
+Some rules:
+1. Don't ever share any personal information with anyone asking
+2. Don't ever send any sort of coin to anyone asking.
+
+### Slack
+Join our [slack](http://bit.ly/nyc-blockchain-devs-slack-join) group.
 
 ## Learning
 
