@@ -162,19 +162,9 @@ We wil also be creating a bigger ongoing project as a community. Check out our [
 
 More on that later.
 
-## Admin
-
-### How can I give a presentation or demo?
-
-Message the admins on [Meetup.com](https://www.meetup.com/nyc-blockchain-devs/)
-or [Slack](http://bit.ly/nyc-blockchain-devs-slack-join)
-
-### Hey, my question isn't on this FAQ!
-
-Come to our [meetup](https://www.meetup.com/nyc-blockchain-devs/) enough times or submit a [pull request](https://github.com/NYC-Blockchain-Devs/meetup-faq/pulls).
-
+## Sponsorship
 ### How can my company be a sponsor?
-Join our [slack](http://bit.ly/nyc-blockchain-devs-slack-join) and reach out to @anthony albertorio.
+Join our [slack](http://bit.ly/nyc-blockchain-devs-slack-join) and message the admin
 
 Or message the admins on [meetup](https://meetup.com/nyc-blockchain-devs/).
 
@@ -215,3 +205,58 @@ ICO stands for an Initial Coin Offering. It is a form of raising capital via the
 See this video for now: [What is an Initial Coin Offering?](https://www.youtube.com/watch?v=iyuZ_bCQeIE)
 
 More on this later.
+
+## Misc Events
+
+### I will pay you money to come speak at my event?
+Sure, please message the admins on [Meetup.com](https://www.meetup.com/nyc-blockchain-devs/)
+or [Slack](http://bit.ly/nyc-blockchain-devs-slack-join)
+
+### I don't have money. But the event is prestigous.
+Sorry, can't pay the landlord with prestige. 
+
+The organizer limits his community work to Mondays 6:30pm to 9pm only. 
+
+### Will you host an event at the meetup for my company?
+Probably not. At most you can get MOST ~10 mins. It will inconvience our schedule.
+
+### But my startup is doing something amazing! Can we get more time?
+Sorry, not for the Monday meetups. You can pay for the special meetup on another day. 
+
+Contact the organizer via [Meetup.com](https://www.meetup.com/nyc-blockchain-devs/)
+or [Slack](http://bit.ly/nyc-blockchain-devs-slack-join)
+
+
+### We are a company, but don't want to pay for promotion for a special event. Can you do this for the community?
+No.
+
+## Start ups
+### I have an idea for a project. Will you guys develop it for me? I will pay in the tokens you create.
+No.
+
+### I have an idea for business that we can team up on.
+No. At the moment, the organizer just want to keep this fun and chill. Not looking to partner up with anyone at the moment.
+
+### Its really good though. I have a great background.
+Let's get to know each other first, see how we both operate and what are our value systems.
+
+Yet, still a no, since the organizer has his own thing going on.
+
+### How about another meetup member? Will they join?
+That's a personal matter between you guys. 
+
+### How do I find a technical co-founder?
+Others have written about this better than you will find in this post. Do your research.
+
+However, you should know your industry like the back of your hand and be good at sales.
+
+## Admin
+
+### How can I give a presentation or demo?
+
+Message the admins on [Meetup.com](https://www.meetup.com/nyc-blockchain-devs/)
+or [Slack](http://bit.ly/nyc-blockchain-devs-slack-join)
+
+### Hey, my question isn't on this FAQ!
+
+Come to our [meetup](https://www.meetup.com/nyc-blockchain-devs/) enough times or submit a [pull request](https://github.com/NYC-Blockchain-Devs/meetup-faq/pulls).
