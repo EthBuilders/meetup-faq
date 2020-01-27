@@ -4,8 +4,8 @@ Familiarizing youself with the goings-on in a bleeding-edge technology like cryp
 
 
 ## Technical
-- Satoshi Nakamoto, [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-- Gavin Wood, [Ethereum: A Secure Decentralized Generalized Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)
+- Satoshi Nakamoto, [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf), (2008)
+- Gavin Wood, [Ethereum: A Secure Decentralized Generalized Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf), (2015)
 - J. Poon and T. Dryja, [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://lightning.network/lightning-network-paper.pdf), (2015)
 - A. Back et al, [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf), (2014)
 
