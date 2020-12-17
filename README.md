@@ -8,7 +8,7 @@ This is a regular gathering for Etheruem developers of all levels to learn, pres
 ### Where do meetups happen?
 ONLINE. 
 See the meetup:
-[EthBuilders.NYC](https://www.meetup.com/eth-builders/)
+[EthBuilders.NYC](https://www.meetup.com/ethBuilders/)
 
 ### Are there any costs/expenses?
 Nope.  
